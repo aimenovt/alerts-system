@@ -1,0 +1,5 @@
+EVENTS_EXCHANGE = "events"
+EVENTS_DLX_EXCHANGE = "events.dlx"
+EVENTS_PROCESSING_QUEUE = "events.processing"
+EVENTS_PROCESSING_DLQ = "events.processing.dlq"
+EVENT_CREATED_ROUTING_KEY = "event.created"
