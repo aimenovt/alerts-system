@@ -1,0 +1,9 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+tests
+alembic/versions/*.pyc
